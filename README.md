@@ -17,9 +17,10 @@ requirement - XAMPP (it provide you Apache, PHP, MySQL).
    and its value according to the system path/url.
    Eg. "http://localhost:8080/Blogging-website" . 
   It will open window like :
+  
   ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/home.JPG)
   ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/profile.JPG)
-  ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/scope_inno.JPG)
+  ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/scop_inno.JPG)
   ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/register.JPG)
   ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/log_in.JPG)
   ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/add_blog.JPG)
