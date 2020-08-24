@@ -1,12 +1,11 @@
 # Blogging-website /Articles Management System -
 This is the web project. Developed using CodeIngniter  PHP framework. The functionality of the project is first register yourself and  you can login afterward. 
 1) Add your personal blog.
-2) Update blog if any changes.
+2) Update blog if any changes / Detele function also there to delete your any article..
 3) You can add PDF or image if you want with your article.
-4) Detele function also there to delete your any article.
-5) Also comment falicity provided to comment on others or yours blog.
-6) There is one more tab as new functionality i.e Innovation where you can add new technology and any new project topics if you don't have any information about that new topics.
-7) Tried to control by admin he/she can check user activity if any misbehaviour happend then admin can delete or block that particular user.
+4) Also comment falicity provided to comment on others or yours blog.
+5) There is one more tab as new functionality i.e Innovation where you can add new technology and any new project topics if you don't have any information about that new topics.
+6) Tried to control by admin he/she can check user activity if any misbehaviour happend then admin can delete or block that particular user.
 
 
 ## Installation 
