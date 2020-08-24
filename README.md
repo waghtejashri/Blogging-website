@@ -16,6 +16,11 @@ requirement - XAMPP (it provide you Apache, PHP, MySQL).
 3) Go to the Blogging-website folder and open the application/config/config.php file. Search for base_url parameter 
    and its value according to the system path/url.
    Eg. "http://localhost:8080/Blogging-website" . 
+4) Go to your convenient browser and type the localhost/phpmyadmin in the address bar.
+   Create the database named "articles_db" . Import the articles_db.sql  available in the Blogging-website folder.
+5) If you have set a password for the database make the changes in the application/config/database.php.
+
+## Screenshots
   It will open window like :
   
   ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/home.JPG)
