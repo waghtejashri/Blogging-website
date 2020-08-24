@@ -17,4 +17,14 @@ requirement - XAMPP (it provide you Apache, PHP, MySQL).
 3) Go to the Blogging-website folder and open the application/config/config.php file. Search for base_url parameter 
    and its value according to the system path/url.
    Eg. "http://localhost:8080/Blogging-website" . 
-4) 
+  It will open window like :
+  ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/home.JPG)
+  ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/profile.JPG)
+  ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/scope_inno.JPG)
+  ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/register.JPG)
+  ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/log_in.JPG)
+  ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/add_blog.JPG)
+  ![Home img]( https://github.com/waghtejashri/Blogging-website/blob/master/about_us.JPG)
+ 
+ This is how it looks like.
+ 
